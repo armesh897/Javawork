@@ -4,5 +4,5 @@ jobs:
   first-job: 
     runs-on: Ubuntu-latest
     steps:
-      - name: print name
+      - name: Print Name
         run: echo "Ramesh Nepali"
