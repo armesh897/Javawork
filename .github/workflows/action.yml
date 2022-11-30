@@ -2,7 +2,7 @@ name: Github action practice
 on: workflow_dispatch
 jobs: 
   first-job: 
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-latest
     steps:
       - name: print name
         run: echo "Ramesh Nepali"
